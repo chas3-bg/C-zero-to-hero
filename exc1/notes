@@ -1,0 +1,6 @@
+Expected result :
+print Hello world and a new line to console.
+
+VS code messes up tabs and spaces in the 
+Makefile. Those are pretty gentle when it comes
+to spaces/tabs.
