@@ -1,0 +1,8 @@
+In this excercise I`ll define some data types
+and print them. 
+
+When you define an array of characters
+char test[] = "test"
+the characters are converted to type int and 
+then the string is treated as an array of integers. 
+Keep that in mind.
